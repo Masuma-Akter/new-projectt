@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+.full{
+    font-family: "Roboto"'Times New Roman', Times, serif;
+    margin: auto;
+    overflow: hidden;
+    background-color: rgb(250, 255, 255);
+}
+.header{
+    background-color: rgb(126, 150, 198);
+    display: block;
+    
+}
+
+.header .head1  {
+   text-align: center;
+    
+  
+
+}
+.ab h1{
+   
+    padding: 0px;
+    margin: 0;
+
+}
+.exp h1{
+    padding: 0px;
+    margin: 0;
+}
+.header .head2 img{
+    background: aliceblue;
+    display: inline-block;
+    margin-left: 570px;
+    margin-top: 25px;
+
+
+    
+}
+.ab{
+    background-color: rgb(202, 165, 236);
+}
+.ab h1{
+    text-align: center;
+}
+.first .ab2{
+    display: inline-block;
+    
+
+}
+.first .ab2 h2{
+    margin-left: 40px;
+}
+.first{
+    display:flex;
+}
+.header .head1 p {
+    margin-left: 15%;
+    white-space: pre;
+}
+
+.header .head1 a{
+   
+   
+    text-align: center;
+    
+        
+ }
+ .second{
+    background-color: rgb(157, 157, 241);
+ }
+ .exp h1{
+    text-align: center;
+ }
+ .exp .exp2 h2{
+    margin-left: 40px;
+ }
+ .exp{
+    background-color:  rgb(179, 150, 245);
+ }
+.first .ab1 img{
+    display: inline-block;
+    justify-content: space-between;
+    height: 250px;
+    width: 200px;
+    margin-right: 20px;
+}
+.second{
+    display:flex;
+    border-bottom: none;
+}
+
+
+.second .ab3 h2{
+    margin-left: 40px;
+
+}
+.second .ab4 img{
+    height:200px;
+    width:200px
+
+}
+
+.third {
+    display:flex;
+}
+.third .exp1 img{
+    height:200px;
+    width:200px;
+    margin-right: 20px;
+    
+
+}
+.fourth{
+    display: flex;
+    background-color: rgb(127, 99, 228);
+}
+.fourth .exp3 h2{
+    margin-left: 40px;
+}
+.fourth .exp4 img{
+    height:200px;
+    width:200px
+}
+.footer{
+    background: #797979;
+    text-align: center;
+    padding: 10px;
+}
